@@ -16,7 +16,7 @@
 		<mybatis-spring.version>1.3.2</mybatis-spring.version>
 		<mysql.version>5.1.46</mysql.version>
 		<c3p0.version>0.9.5.2</c3p0.version>
-		<jackson.version>2.9.3</jackson.version>
+		<jackson.version>2.10.0.pr1</jackson.version>
 		<slf4j.version>1.7.25</slf4j.version>
 		<shiro.version>1.3.0</shiro.version>
 	</properties>
