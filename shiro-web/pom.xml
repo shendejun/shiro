@@ -14,7 +14,7 @@
 		<cglib.version>3.2.6</cglib.version>
 		<mybatis.version>3.4.6</mybatis.version>
 		<mybatis-spring.version>1.3.2</mybatis-spring.version>
-		<mysql.version>5.1.46</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<c3p0.version>0.9.5.2</c3p0.version>
 		<jackson.version>2.9.3</jackson.version>
 		<slf4j.version>1.7.25</slf4j.version>
