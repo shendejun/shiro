@@ -18,7 +18,7 @@
 		<c3p0.version>0.9.5.2</c3p0.version>
 		<jackson.version>2.9.3</jackson.version>
 		<slf4j.version>1.7.25</slf4j.version>
-		<shiro.version>1.3.0</shiro.version>
+		<shiro.version>1.9.1</shiro.version>
 	</properties>
 	<dependencies>
 		<!-- 缓存依赖 -->
